@@ -1,0 +1,23 @@
+{
+  "name": "natural-coast",
+  "version": "1.0.0",
+  "description": "a default 0-0-0.mbtiles created from Natural Earth Coastline (10m)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/natural-coast.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hfu/natural-coast/issues"
+  },
+  "homepage": "https://github.com/hfu/natural-coast#readme",
+  "dependencies": {
+    "event-stream": "^4.0.1"
+  }
+}
